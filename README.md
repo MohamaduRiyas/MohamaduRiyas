@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMADU RIYAS</h1>
-<h align="center">A passionate computer science and engineer</h3>
+<h3 align="center">A passionate computer science and engineer</h3>
 
 - 🔭 I’m currently studying **B.E CSE**
 
