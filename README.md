@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying **B.E CSE**
 
-- 🌱 I’m currently learning **Web Development, c programming..**
+- 🌱 I’m currently learning **Web Development, c programming..,REACT JS, c++**
 
-- 📫 How to reach me **mohamaduriyas.cs22@bitsathy.ac.in**
+- 📫 How to reach me **mohamaduriyas.cs22@bitsathy.ac.in or riyasmd1368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
