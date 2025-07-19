@@ -1,57 +1,70 @@
-<h1 align="center">Hi 👋, I'm MOHAMADU RIYAS</h1>
-<h3 align="center">A passionate Computer Science Engineer</h3>
-
-- 🎓 I'm currently pursuing **B.E. in Computer Science and Engineering**  
-- 🌱 I'm learning **Web Development, C/C++, React.js, and more**  
-- 📫 Reach me at **mohamaduriyas.cs22@bitsathy.ac.in** or **riyasmd1368@gmail.com**
+<h1 align="center">Code. Learn. Improve. Repeat.</h1>
+<p align="center">Hi, I'm Mohamadu Riyas — Passionate about Building Clean & Scalable Tech</p>
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamadu-riyas/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/__.riyazxx.__/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/mohamaduriyas" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/mohamadu_riyas/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+### 👨‍🎓 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 📍 Based in Pollachi, Tamil Nadu, India  
+- 💼 Actively learning **Docker, Azure**, and **Streamlit**  
+- 🧠 Passionate about solving problems with clean code and scalable architecture  
+- 🤝 Open to collaboration on web development and machine learning projects  
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-</p>
+### 🛠️ Skills & Technologies
+
+**👨‍💻 Languages:**  
+Python, Java, C, C++, SQL
+
+**📚 Frameworks & Libraries:**  
+React.js, Node.js, Flask, Streamlit, Docker
+
+**🧰 Tools:**  
+VS Code, MySQL, Git & GitHub, Docker Hub, Postman
+
+**☁️ Platforms & IDEs:**  
+PyCharm, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA, Azure App Service, GitHub Pages
+
+**💡 Soft Skills:**  
+Problem Solving, Team Collaboration, Quick Learner, Adaptability, Critical Thinking
 
 ---
+
+### 🌐 Connect with Me
 
 <p align="center">
-  🚀 Let's build something amazing together!
+  <a href="https://www.linkedin.com/in/mohamadu-riyas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MohamaduRiyas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/MOHAMADU_RIYAS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/user/mohamadurvs9f/"><img src="https://img.shields.io/badge/GeeksforGeeks-1F8B4C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://mohamaduriyas.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamaduRiyas&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamaduRiyas&theme=dracula&no-frame=true&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamaduRiyas&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamaduRiyas/MohamaduRiyas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamaduRiyas/MohamaduRiyas/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MohamaduRiyas/MohamaduRiyas/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+🔗 **Portfolio**: [mohamaduriyas.github.io/portfolio-website](https://mohamaduriyas.github.io/portfolio-website/)
