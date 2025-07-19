@@ -55,16 +55,7 @@ Problem Solving, Team Collaboration, Quick Learner, Adaptability, Critical Think
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamaduRiyas&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </p>
 
----
 
-### 👾 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamaduRiyas/MohamaduRiyas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamaduRiyas/MohamaduRiyas/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MohamaduRiyas/MohamaduRiyas/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 🔗 **Portfolio**: [mohamaduriyas.github.io/portfolio-website](https://mohamaduriyas.github.io/portfolio-website/)
