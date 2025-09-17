@@ -40,8 +40,9 @@ Problem Solving, Team Collaboration, Quick Learner, Adaptability, Critical Think
   <a href="https://leetcode.com/u/MOHAMADU_RIYAS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/user/mohamadurvs9f/"><img src="https://img.shields.io/badge/GeeksforGeeks-1F8B4C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://mohamaduriyas.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://freelancer-booking-portal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://freelancer-booking-portal.vercel.app/"><img src="https://img.shields.io/badge/Booking%20Portal-4CAF50?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 </p>
+
 
 ---
 
